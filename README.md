@@ -14,7 +14,8 @@ Our colorization model consists of the following components:
 
 
 # Acknowledgments
-We would like to express our gratitude to the open-source community for their valuable contributions and to the developers of TensorFlow and other libraries utilized in this project. Also I would like to thank [Emil Wallner](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/) for the amazing blog, from which the project is inspired from.
+I would like to express our gratitude to the open-source community for their valuable contributions and to the developers of TensorFlow and other libraries utilized in this project. I would like to thank [Emil Wallner](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/) for the amazing blog, which is the inspiration for this project. 
+For the dataset, I would like to thank [Aayush Sharma](https://www.kaggle.com/datasets/aayush9753/image-colorization-dataset).
 
 # Contact
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to me at [Kaggle](https://www.kaggle.com/abhishekgautam12). We appreciate your interest in our project and look forward to hearing from you!
